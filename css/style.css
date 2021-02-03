@@ -1,0 +1,18 @@
+body {
+    background: #deb887;
+    margin-left: 200 px;
+    margin-right: 200 px;
+}
+
+h1{
+    color: red;
+    font-family: fantasy;
+}
+
+h2{
+    font-family: fantasy;
+}
+
+p{
+    font-size: 18 px;
+}
